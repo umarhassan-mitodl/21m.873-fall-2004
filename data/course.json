@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theatrical Design"
+    ]
+  ],
+  "legacy_uid": "569350ba-8ba3-612d-1f23-57d7a4003150",
+  "instructors": {
+    "content": [
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7c9117fb-a0d0-db68-8748-ab7381e7f9db",
+    "website": "21m-873-theater-arts-topics-fall-2004-january-iap-2005"
+  },
+  "course_title": "Theater Arts Topics",
+  "course_description": "Directed practice in acting, directing, or design on a sustained theater piece, either one-act or full length, from pre-rehearsal preparation to workshop production.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.873",
+  "course_image_thumbnail": {
+    "content": "ae93613f-f637-1820-db0a-fcb8e917b7dd",
+    "website": "21m-873-theater-arts-topics-fall-2004-january-iap-2005"
+  },
+  "learning_resource_types": [
+    "Image Gallery"
+  ],
+  "site_uid": "7c522f7d-d42f-4705-9129-8fa68bde973b",
+  "site_short_id": "21m.873-fall-2004",
+  "site_url_path": "courses/21m-873-theater-arts-topics-fall-2004-january-iap-2005",
+  "title": "Course Metadata"
+}
